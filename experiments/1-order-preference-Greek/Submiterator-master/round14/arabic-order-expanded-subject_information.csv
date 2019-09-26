@@ -1,0 +1,13 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,-1,-1,-1,-1,,-1,Male,,-1,,-1,-1,Yes,-1,-1
+1,correct,gulf,incorrect,before,no,1,Other,tamil,english-arabic,,1-5,basic,Confused,correct,2
+2,correct,egyptian,correct,no,tamil,0,Male,25,arabic-arabic,,never,basic,Yes,incorrect,0
+3,-1,-1,-1,-1,,-1,,,-1,,-1,-1,NA,-1,-1
+4,correct,egyptian,correct,no,,0,Female,30,arabic-arabic,,never,basic,Yes,incorrect,0
+5,correct,gulf,incorrect,both,english,2,Other,female,other,well,1,advanced,No,incorrect,2
+6,correct,moroccan,correct,both,arabic,1,Female,24,arabic-english,,5+,intermediate,Yes,correct,4
+7,correct,levantine,correct,both,العربية,2,Male,39,arabic-arabic,,5+,advanced,Yes,correct,3
+8,correct,levantine,correct,both,العربية,2,Male,49,arabic-arabic,"كثير من الاوصاف لم تكن تنطبق على الموصوف في العادة، مما جعل الاجابة على السؤال غير مؤكدة. مثل: وصف الموزة بالمستديرة أو التلفاز الأملس. فهذه الصفات غير معتادة
+
+مع تمنياتي لكم بالتوفيق
+مجدي جرادات",5+,superior,Yes,correct,3

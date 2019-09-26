@@ -1,0 +1,10 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,correct,egyptian,correct,both,العربية,2,Male,27,arabic-arabic,,5+,advanced,Yes,correct,4
+1,incorrect,levantine,incorrect,no,good,0,Male,30,arabic-english,very good,never,basic,Confused,incorrect,1
+2,correct,moroccan,correct,both,العربية,2,Male,44,arabic-english,لاحظت ان بعض الجمل الموجودة في هذه الدراسة لا يستقيم معناها باللغة العربية. حاولت الاجابة عن مدى صحتها نحويا . شكرا,5+,advanced,Yes,correct,3
+3,correct,other,correct,both,العربية,2,Male,24,arabic-english,,5+,intermediate,Yes,correct,3
+4,correct,moroccan,correct,both,Arabic  العربية,1,Male,24,arabic-arabic,,5+,advanced,Yes,correct,2
+5,correct,egyptian,correct,no,,0,Male,25,arabic-arabic,,never,basic,Confused,incorrect,0
+6,incorrect,gulf,correct,no,tamil,1,Female,29,arabic-english,,1,intermediate,Yes,incorrect,1
+7,correct,saudi,incorrect,after,No ,2,Other,Yes,arabic-english,"This was fun, let’s do it again sometime ",1-5,superior,Yes,incorrect,3
+8,correct,egyptian,correct,no,,0,Male,23,arabic-arabic,,never,basic,Yes,incorrect,0

@@ -1,0 +1,10 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,incorrect,moroccan,incorrect,before,ENGLISH,1,Female,FEMALKE,arabic-english,28,1-5,advanced,Yes,correct,3
+1,incorrect,iraqi,incorrect,after,english,0,Female,female,english-arabic,well,1,superior,Yes,correct,4
+2,correct,levantine,correct,both,,0,Female,,arabic-english,,1,basic,Yes,incorrect,1
+3,correct,egyptian,correct,no,,0,Male,23,arabic-arabic,,never,basic,Confused,incorrect,0
+4,correct,egyptian,correct,no,,0,Male,,arabic-arabic,,never,basic,Confused,incorrect,0
+5,correct,other,correct,both,عربية,2,Male,38,arabic-arabic,,5+,advanced,Yes,correct,4
+6,-1,-1,-1,-1,,-1,Male,35,-1,,-1,-1,Yes,-1,3
+7,correct,levantine,correct,no,english,1,Female,26,arabic-english,nice,1,intermediate,NA,incorrect,2
+8,incorrect,gulf,incorrect,both,English ,0,Female,36,english-arabic,,5+,no-response,Yes,correct,2

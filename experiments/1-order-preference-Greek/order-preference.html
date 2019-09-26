@@ -1,0 +1,268 @@
+
+
+  <!-- <html dir="rtl"> -->
+  <html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    
+    <title>Greek adjectives</title>
+
+    <!--JS-->
+
+    <!-- external general utilities -->
+    <script src="../_shared/js/jquery-1.11.1.min.js "></script>
+    <script src="../_shared/full-projects/jquery-ui/jquery-ui.min.js"></script>
+    <script src="../_shared/js/underscore-min.js"></script>
+    <!-- if you want to draw stuff: -->
+    <script src="../_shared/js/raphael-min.js"></script>
+
+    <!-- cocolab experiment logic -->
+    <script src="../_shared/js/exp-V2.js"></script>
+    <script src="../_shared/js/stream-V2.js"></script>
+
+    <!-- cocolab general utilities -->
+    <script src="../_shared/js/mmturkey.js "></script>
+    <script src="../_shared/js/browserCheck.js"></script>
+    <script src="../_shared/js/utils.js"></script>
+    <!-- if you want to draw cute creatures (depends on raphael): -->
+    <!-- <script src="../_shared/js/ecosystem.js"></script> -->
+
+    <!-- experiment specific helper functions -->
+    <!-- <script src="js/local-utils.js"></script> -->
+
+    <!--CSS-->
+    <link href="../_shared/full-projects/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+    <link href="../_shared/css/meaninglab-style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/local-style.css" rel="stylesheet" type="text/css"/>
+
+    <!-- experiment file -->
+    <script src="js/order-preference.js"></script>
+    <script src="expt-files/corpus.js"></script>
+    <script src="expt-files/names.js"></script>
+
+    <!-- check unique turkers -->
+    <script src="../_shared/js/uniqueturker.js"></script>
+    
+</head>
+
+<body onload="init();">
+  <noscript>This task requires JavaScript.</noscript>
+
+  <div class="slide" id="i0">
+    <img src="../_shared/images/meaningLab.png" alt="UCI meaning lab" id="meaningLabLogo"></img>
+    <p id="instruct-text">Αυτό το ερωτηματολόγιο αφορά την κατανόηση προτάσεων στα Ελληνικά. Θα χρειαστείς περίπου 6 λεπτά για να το ολοκληρώσεις. Θα σε παρακαλούσαμε να αφιερώσεις όλη την προσοχή σου καθώς θα απαντάς.</p>
+    <button id="start_button" type="button">Ξεκίνα το πείραμα. </button>
+    <p id="legal">Νομικές πληροφορίες: Απαντώντας στις παρακάτω ερωτήσεις, συμμετέχεις σε μια μελέτη που εκπονείται από γνωσιακούς επιστήμονες στο Τμήμα Γλωσσικής Επιστήμης του Πανεπιστημίου της Καλιφόρνια, Ίρβιν. Αν έχεις ερωτήσεις σχετικά με αυτή την έρευνα, μπορείς να επικοινωνήσεις με την υπεύθυνη ερευνήτρια, Έλλη Τουρτούρη <a href="mailto://elli.tourtouri@gmail.com"> (elli.tourtouri@gmail.com).</a>. Πρέπει να είσαι τουλάχιστον 18 ετών για να συμμετάσχεις στην έρευνα και, αν αποφασίσεις να συμμετάσχεις, η συμμετοχή σου θα είναι εθελοντική. Μπορείς να αρνηθείς να απαντήσεις σε μία ή σε όλες από τις ερωτήσεις. Σε οποιαδήποτε στιγμή μπορείς να παύσεις την περαιτέρω συμμετοχή σου στην έρευνα χωρίς συνέπειες. Η ανωνυμία σου είναι εξασφαλισμένη· οι ερευνητές που έχουν ζητήσει τη συμμετοχή σου δε θα έχουν πρόσβαση στις προσωπικές σου πληροφορίες.</p>
+  </div>
+
+  <div class="slide" id="instructions1">
+    <h3>Οδηγίες</h3>
+    <p> Θα δεις 26 ζεύγη σύντομων περιγραφών κάποιων αντικειμένων. 
+Αυτό που σου ζητείται να κάνεις είναι να αποφασίσεις ποιά από τις δύο περιγραφές σού φαίνεται καλύτερη.</p>
+    <!-- <p class="instruction_condition">{{}}</p> -->
+    <button onclick="_s.button()">Συνέχισε</button>
+  </div>
+
+  <div class="slide" id="multi_slider">
+
+  <p class="name_said" ></p>
+
+    <!-- <p>Consider the following situation:</p> -->
+
+<!--    <p><span class = "woman">{{}}</span> sold a <span class="noun">{{}}</span> in her store.</p>
+
+    <p><span class="man1">{{}}</span> entered <span class = "woman">{{}}</span>'s store, noticed the <span class="noun">{{}}</span>, and said:</p>
+    -->
+    <!-- <p><span class="man1">{{}}</span> and <span class="man2">{{}}</span> see the same <span class="noun">{{}}</span>.</p> 
+    <p><span class="man1">{{}}</span> says: <b><span class="utterance1">{{}}</span></b></p>
+
+    <p><span class="man2">{{}}</span> responds: <b><span class="utterance2">{{}}</span></b></p> -->
+
+<!--     <p>Do the statements make sense?</p>
+    <label><input type="radio"  name="sense" value="Yes"/>Yes</label>
+    <label><input type="radio"  name="sense" value="No"/>No</label>
+    </br></br>
+ -->
+    <br>
+
+    <p >Ποιά από τις δύο περιγραφές του "<span class="noun">{{}}</span>" σου ακούγεται πιο φυσική;</p>
+
+    <table id="multi_slider_table" class="slider_table">
+<!--      <tr><td class="left">No, somebody must be wrong.</td><td class="right">Yes, it's a matter of opinion.</td></tr> -->
+      <tr><td><span class="low">{{}}</span></td><td>
+      <div id="slider0" class="slider"></div>
+      </td><td><span class="high">{{}}</span></td></tr>
+    </table>
+
+    <p>Τοποθέτησε και σύρε τον κέρσορα πάνω στην μπάρα για να υποδείξεις την προτίμηση σου </p><br>
+
+    <button onclick="_s.button()" >تابع</button>
+    <div class="err">Παρακαλούμε, σύρε τον κέρσορα πριν συνεχίσεις. </div>
+  </div>
+
+  <div class="slide"  id="subj_info">
+    <div class="long_form">
+      <div class="subj_info_title">Πρόσθετες πληροφορίες</div>
+      <p class="info">Η απάντηση στις παρακάτω ερωτήσεις είναι προεραιτική, αλλά θα μας βοηθήσει να κατανοήσουμε τις απαντήσεις που έδωσες πιο πάνω.</p>
+      <p>Έχεις διαβάσει τις οδηγίες και θεωρείς ότι ολοκλήρωσες σωστά τη δοκιμασία;</p>
+      <label><input type="radio"  name="assess" value="No"/>Όχι</label>
+      <label><input type="radio"  name="assess" value="Yes"/>Ναι</label>
+      <label><input type="radio"  name="assess" value="Confused"/> Δεν είμαι σίγουρος/-η</label>
+
+      <p>Φύλο:
+        <select id="gender">
+          <label><option value=""/></label>
+          <label><option value="Male"/>Άντρας</label>
+          <label><option value="Female"/>Γυναίκα</label>
+          <label><option value="Other"/>Άλλο</label>
+        </select>
+      </p>
+
+      <p>Ηλικία: <input type="text" id="age"/></p>
+
+      <p>Επίπεδο εκπαίδευσης (που έχεις ολοκληρώσει):
+        <select id="education">
+          <label><option value="-1"/></label>
+          <label><option value="0"/>Δευτεροβάθμια εκπαίδευση</label>
+          <label><option value="1"/>Μετα-δευτεροβάθμια επαγγελματική εκπαίδευση (ΙΕΚ, κτλ.) </label>
+          <label><option value="2"/>ΑΕΙ/ΤΕΙ</label>
+          <label><option value="3"/>Μάστερ/Διδακτορικό</label>
+          <label><option value="4"/>Άλλο. Προσδιόρισε</label>
+        </select>
+      </p>
+
+      <p>Μητρική γλώσσα: <input type="text" id="language"/></p>
+      <label>Γλώσσα(-ες) που μιλιούνταν στο σπίτι όταν ήσουν παιδί</label>
+
+     <!-- <p>أي من الخيارات التالية تصفك بشكل أفضل؟
+        <select id="describe">
+          <label><option value="-1"/></label>
+          <label><option value="arabic-arabic"/>تعلمت اللغة العربية كلغة أولى، وما زالت العربية لغتي الأساسية حتى الآن </label>
+          <label><option value="arabic-english"/>تعلمت اللغة العربية كلغة أولى ولكن اللغة الإنجليزية هي لغتي الأساسية الآن </label>
+          <label><option value="english-arabic"/>تعلمت الإنجليزية كلغة أولى ثم تعلمت العربية فيما بعد</label>
+          <label><option value="other"/>تعلمت لغة أخرى غير الإنجليزية أو العربية كلغة أولى ، ثم تعلمت اللغة العربية في وقت لاحق</label>
+        </select>
+      </p>
+
+      <p>هل عشت في بلد يتحدث اللغة العربية؟
+        <select id="lived">
+          <label><option value="-1"/></label>
+          <label><option value="no"/>لا ، لم أعش قط في بلد يتحدث اللغة العربية </label>
+          <label><option value="both"/>نعم ، قبل وبعد سن الثامنة من عمري </label>
+          <label><option value="before"/>نعم ، قبل سن الثامنة من عمري</label>
+          <label><option value="after"/>نعم ، بعد سن الثامنة من عمري</label>
+        </select>
+      </p>
+
+      <p>كم سنة عشت في بلد يتحدث اللغة العربية؟
+        <select id="years">
+          <label><option value="-1"/></label>
+          <label><option value="never"/>لم أعش قط في بلد يتحدث اللغة العربية</label>
+          <label><option value="1"/>أقل من سنة واحدة </label>
+          <label><option value="1-5"/>من سنة إلى خمس سنوات</label>
+          <label><option value="5+"/>أكثر من خمس سنوات</label>
+        </select>
+      </p>
+
+      <p>ما هي اللهجة العربية التي تتحدثها؟
+        <select id="dialect">
+          <label><option value="-1"/></label>
+          <label><option value="egyptian"/>المصرية</label>
+          <label><option value="levantine"/>الشامية(اللبنانية، السورية، الفلسطينية، والأردنية) </label>
+          <label><option value="gulf"/>الخليجية</label>
+          <label><option value="saudi"/>السعودية</label>
+          <label><option value="iraqi"/>العراقية</label>
+          <label><option value="moroccan"/>المغربية</label>
+          <label><option value="other"/>لهجة مختلفة</label>
+        </select>
+      </p> -->
+
+     <!--  <p>إذا كنت تتحدث لهجة مختلفة الرجاء التحديد: <input type="text" id="otherDialect"/></p>
+
+      <p>ما اللغة التي تتكلمها أكثر في المنزل؟
+        <select id="homeLanguage">
+          <label><option value="-1"/></label>
+          <label><option value="arabic"/>العربية</label>
+          <label><option value="english"/>الإنجليزية</label>
+          <label><option value="other"/>لغة أخرى</label>
+        </select>
+      </p>
+
+
+      <p>ما اللغة التي تستخدمها أكثر خارج المنزل؟
+        <select id="dominantLanguage">
+          <label><option value="-1"/></label>
+          <label><option value="arabic"/>العربية</label>
+          <label><option value="english"/>الإنجليزية</label>
+          <label><option value="other"/>لغة أخرى</label>
+        </select>
+      </p>
+
+
+      <p>كيف تقيم مستوى إجادتك للغة العربية الفصحى؟
+        <select id="proficiency">
+          <label><option value="-1"/></label>
+          <label><option value="basic"/>مستوى أساسي</label>
+          <label><option value="intermediate"/>متوسط </label>
+          <label><option value="advanced"/>متقدم</label>
+          <label><option value="superior"/>متفوق</label>
+          <label><option value="no-response"/>أفضل عدم الرد</label>
+        </select>
+      </p>
+
+      <p>أي وصف يبدو أصح؟
+        <select id="test1">
+          <label><option value="-1"/></label>
+          <label><option value="correct"/>التفاحة الصغيرة الحمراء</label>
+          <label><option value="incorrect"/>التفاحة الصغير الأحمر</label>
+        </select>
+      </p>
+
+      <p>أي وصف يبدو أصح؟
+        <select id="test2">
+          <label><option value="-1"/></label>
+          <label><option value="incorrect"/>الطاولة الأزرق الكبير</label>
+          <label><option value="correct"/>الطاولة الزرقاء الكبيرة</label>
+        </select>
+      </p>
+
+
+      <p>أي وصف يبدو أصح؟
+        <select id="test3">
+          <label><option value="-1"/></label>
+          <label><option value="correct"/>البحر الأزرق الواسع</label>
+          <label><option value="incorrect"/>البحر الزرقاء الواسعة</label>
+        </select>
+      </p>
+ -->
+
+      <p>Σου άρεσε αυτό το ερωτηματολόγιο;</p>
+      <select id="enjoyment">
+        <label><option value="-1"></option></label>
+        <label><option value="0">Κατώτερο του μετριόυ</option></label>
+        <label><option value="1" >Μέτριο</option></label>
+        <label><option value="2">Καλύτερο του μετρίου</option></label>
+      </select>
+
+      <p>Θα μας ενδιέφερε η άποψή σου για αυτό το πείραμα. Παρακαλούμε, καταχώρισε την εδώ:</p>
+      <textarea id="comments" rows="3" cols="50"></textarea>
+      <br/>
+      <button onclick="_s.submit()">Υποβολή </button>
+    </div>
+  </div>
+
+  <div id="thanks" class="slide js">
+    <p  class="big">Ευχαριστούμε για τον χρόνο σου!</p>
+  </div>
+
+  <div class="progress">
+    <span>Πρόοδος:</span>
+    <div class="bar-wrapper">
+      <div class="bar" width="0%">
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

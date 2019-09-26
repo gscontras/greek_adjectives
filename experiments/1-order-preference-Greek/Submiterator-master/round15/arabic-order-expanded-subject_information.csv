@@ -1,0 +1,10 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,correct,saudi,correct,both,,0,Male,24,arabic-english,,1,basic,Yes,incorrect,3
+1,correct,iraqi,correct,before,English,1,Male,21,arabic-english,,5+,advanced,Yes,correct,1
+2,correct,egyptian,correct,no,,0,Male,,arabic-arabic,,never,basic,Confused,incorrect,0
+3,-1,-1,-1,-1,,-1,,,-1,,-1,-1,NA,-1,-1
+4,incorrect,egyptian,incorrect,no,Female,1,Female,27,other,Nice,never,intermediate,Yes,incorrect,1
+5,correct,iraqi,correct,before,arabic,2,Female,31,arabic-arabic,,5+,intermediate,No,correct,4
+6,correct,saudi,correct,no,English,0,Male,36,arabic-english,,1-5,intermediate,Confused,incorrect,4
+7,-1,-1,-1,-1,,-1,Male,,-1,,-1,-1,NA,-1,1
+8,correct,egyptian,correct,both,العربية,2,Male,31,arabic-arabic,waiting other hits in arabic language to solve it,5+,basic,Yes,correct,4

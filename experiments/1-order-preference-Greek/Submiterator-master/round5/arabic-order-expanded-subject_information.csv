@@ -1,0 +1,10 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,correct,saudi,correct,both,العربية,2,Male,36,arabic-arabic,أنا سعيد جدا باداء هذه المهمة كونها بلغتي الأم. أتمنى لكم التوفيق ولو كان هناك شي يحتاج مساعدة مني فأنا مستعد كمتطوع أو بأجر . شكرا لكم,5+,superior,Yes,correct,4
+1,incorrect,egyptian,correct,no,english,1,Male,28,arabic-arabic,,1,intermediate,Yes,incorrect,0
+2,correct,moroccan,correct,both,العربية,2,Female,33,arabic-arabic,,5+,superior,Yes,correct,2
+3,correct,egyptian,correct,no,,0,Male,,arabic-arabic,,never,basic,NA,incorrect,0
+4,incorrect,other,correct,no,,0,Male,,other,,never,no-response,Confused,incorrect,0
+5,incorrect,egyptian,correct,no,,0,Male,,other,,never,no-response,Confused,incorrect,0
+6,correct,levantine,correct,both,Arabic,2,Male,38,arabic-arabic,شكرا,5+,intermediate,Yes,correct,4
+7,correct,moroccan,correct,both,arabic,2,Male,23,arabic-arabic,,5+,advanced,Yes,correct,3
+8,correct,moroccan,correct,both,العربية,2,Female,40,arabic-arabic,تجربة ممتعة وتنعيش للذاكرة ,5+,superior,Yes,correct,3

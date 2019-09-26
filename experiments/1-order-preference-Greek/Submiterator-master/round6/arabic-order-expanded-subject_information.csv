@@ -1,0 +1,10 @@
+workerid,test1,dialect,test3,lived,language,enjoyment,gender,age,describe,comments,years,proficiency,asses,test2,education
+0,incorrect,saudi,incorrect,before,tamil,1,Female,25,english-arabic,,1-5,intermediate,Confused,incorrect,2
+1,correct,egyptian,correct,both,Arabic/العربية,2,Male,30,arabic-arabic,هناك بعض المتشابهات فى الجمل ,5+,basic,Yes,correct,4
+2,correct,moroccan,correct,before,"العربية,الايطالية",1,Male,21,arabic-arabic,لا شيء ,1-5,basic,Yes,correct,2
+3,correct,moroccan,correct,both,العربية,1,Male,23,arabic-arabic,,5+,advanced,Yes,correct,2
+4,incorrect,gulf,correct,no,,0,Male,28,arabic-arabic,nice,1,advanced,NA,incorrect,1
+5,correct,levantine,incorrect,both,tamil,0,Male,28,arabic-english,,never,intermediate,Yes,incorrect,1
+6,correct,levantine,correct,no,,0,Male,,arabic-arabic,,never,basic,Yes,incorrect,0
+7,correct,levantine,correct,both,العربية,2,Male,32,arabic-arabic,,-1,superior,Yes,correct,4
+8,correct,gulf,correct,both,البلوشية، العربية، الانجليزيه,2,Female,٤١,other,لا,5+,superior,Yes,correct,1
