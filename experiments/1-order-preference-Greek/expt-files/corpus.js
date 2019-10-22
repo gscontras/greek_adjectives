@@ -14,14 +14,14 @@ var adjectives = _.shuffle([
 		{"Predicate":"καφέ", "Class":"color", "Translation":"brown", "FemPredicate" : "καφέ", "NeuPredicate" :"καφέ"},											
 		{"Predicate":"μεγάλος", "Class":"size", "Translation":"big", "FemPredicate" : "μεγάλη", "NeuPredicate" :"μεγάλο"},
 		{"Predicate":"μικρός", "Class":"size", "Translation":"small", "FemPredicate" : "μικρή", "NeuPredicate" :"μικρό"},					
-		{"Predicate":"τεράστιος", "Class":"size", "Translation":"huge", "FemPredicate" : "τεράστια", "NeuPredicate" :"τεράστιο"},					
+		// {"Predicate":"τεράστιος", "Class":"size", "Translation":"huge", "FemPredicate" : "τεράστια", "NeuPredicate" :"τεράστιο"},					
 		{"Predicate":"μικροσκοπικός", "Class":"size", "Translation":"tiny", "FemPredicate" : "μικροσκοπική", "NeuPredicate" :"μικροσκοπικό"},					
 		{"Predicate":"κοντός", "Class":"size", "Translation":"short", "FemPredicate" : "κοντή", "NeuPredicate" :"κοντό"},					
 		{"Predicate":"μακρύς", "Class":"size", "Translation":"long", "FemPredicate" : "μακριά", "NeuPredicate" :"μακρύ"},							
 		{"Predicate":"ξύλινος", "Class":"material", "Translation":"wooden", "FemPredicate" : "ξύλινη", "NeuPredicate" :"ξύλινο"},
 		{"Predicate":"πλαστικός", "Class":"material", "Translation":"plastic", "FemPredicate" : "πλαστική", "NeuPredicate" :"πλαστικό"},
 		{"Predicate":"μεταλλικός", "Class":"material", "Translation":"metal", "FemPredicate" : "μεταλλική", "NeuPredicate" :"μεταλλικό"},
-		{"Predicate":"απαλός", "Class":"texture", "Translation":"smooth", "FemPredicate" : "απαλή", "NeuPredicate" :"απαλό"},
+		{"Predicate":"λείος", "Class":"texture", "Translation":"smooth", "FemPredicate" : "λεία", "NeuPredicate" :"λείο"},
 		{"Predicate":"σκληρός", "Class":"texture", "Translation":"hard", "FemPredicate" : "σκληρή", "NeuPredicate" :"σκληρό"},
 		{"Predicate":"μαλακός", "Class":"texture", "Translation":"soft", "FemPredicate" : "μαλακή", "NeuPredicate" :"μαλακό"},
 		{"Predicate":"παλιός", "Class":"age", "Translation":"old", "FemPredicate" : "παλιά", "NeuPredicate" :"παλιό"},
@@ -29,7 +29,7 @@ var adjectives = _.shuffle([
 		{"Predicate":"σάπιος", "Class":"age", "Translation":"rotten", "FemPredicate" : "σάπια", "NeuPredicate" :"σάπιο"},
 		{"Predicate":"φρέσκος", "Class":"age", "Translation":"fresh", "FemPredicate" : "φρέσκια", "NeuPredicate" :"φρέσκο"},
 		{"Predicate":"καλός", "Class":"quality", "Translation":"good", "FemPredicate" : "καλή", "NeuPredicate" :"καλό"},
-		{"Predicate":"κακός", "Class":"quality", "Translation":"bad", "FemPredicate" : "κακιά", "NeuPredicate" :"κακό"},
+		{"Predicate":"χαλασμένος", "Class":"quality", "Translation":"broken", "FemPredicate" : "χαλασμένη", "NeuPredicate" :"χαλασμένο"},
 		{"Predicate":"στρογγυλός", "Class":"shape", "Translation":"round", "FemPredicate" : "στρογγυλή", "NeuPredicate" :"στρογγυλό"},						
 		{"Predicate":"τετράγωνος", "Class":"shape", "Translation":"square", "FemPredicate" : "τετράγωνη", "NeuPredicate" :"τετράγωνο"}
 ]);
@@ -73,7 +73,7 @@ var nouns = [
 		{"Noun":"καρότο", "NounClass":"food", "Translation":"carrot", "Gender" : "neuter"},
 		{"Noun":"ντομάτα", "NounClass":"food", "Translation":"tomato", "Gender" : "feminine"},								
 		{"Noun":"καναπές", "NounClass":"furniture", "Translation":"couch", "Gender" : "masculine"},								
-		{"Noun":"βεντάλια", "NounClass":"furniture", "Translation":"fan", "Gender" : "masculine"}								
+		{"Noun":"βεντάλια", "NounClass":"furniture", "Translation":"fan", "Gender" : "feminine"}								
 ];
 
 // var nouns = [

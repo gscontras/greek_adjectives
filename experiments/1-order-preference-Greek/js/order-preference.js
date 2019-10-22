@@ -55,7 +55,7 @@ function make_slides(f) {
 
         $(".high").html("\""+ stim.Predicate1.Predicate + " " + stim.Predicate2.Predicate + " " + stim.Noun + "\"");
 
-      } if (gender == "neuter") {
+      } else if (gender == "neuter") {
         $(".low").html("\""+ stim.Predicate2.NeuPredicate + " " + stim.Predicate1.NeuPredicate + " " + stim.Noun + "\"");
 
         $(".high").html("\""+ stim.Predicate1.NeuPredicate + " " + stim.Predicate2.NeuPredicate + " " + stim.Noun + "\"");
@@ -117,6 +117,7 @@ function make_slides(f) {
         gender : $("#gender").val(),
         education : $("#education").val(),
         comments : $("#comments").val(),
+        prolific: $("#prolificID").val()
         // describe : $("#describe").val(),
         // lived : $("#lived").val(),
         // years : $("#years").val(),
