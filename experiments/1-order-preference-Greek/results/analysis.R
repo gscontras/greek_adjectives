@@ -78,10 +78,11 @@ agr$rightresponse = NULL
 agr$class1 = NULL
 agr$class2 = NULL
 nrow(agr) #2392
-#write.csv(agr,"~/git/arabic_adjectives/experiments/2-order-preference-expanded/results/arabic-naturalness-duplicated.csv")
-agr$correctresponse = 1 - agr$correctresponse
-
 agr = agr[!is.na(agr$correctresponse),]
+#write.csv(agr,"greek-naturalness-duplicated.csv")
+#agr$correctresponse = 1 - agr$correctresponse
+
+
 
 adj_agr = aggregate(correctresponse~predicate*correctclass,FUN=mean,data=agr)
 adj_agr

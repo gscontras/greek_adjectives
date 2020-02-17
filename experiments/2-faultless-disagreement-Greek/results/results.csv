@@ -1,0 +1,978 @@
+,class,firstutterance,noun,nounclass,predicate,response,slide_number,language,enjoyment,age,gender,education,comments,prolific,Browser,OS,screenH,screenW,time_in_minutes,participant_id,asses
+0,material,δεν είναι,TV,furniture,metal,0.12,3,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+1,age,δεν είναι,tomato,food,old,0.6,4,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+2,texture,δεν είναι,apple,food,smooth,0.34,5,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+3,size,είναι,chair,furniture,tiny,0.67,6,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+4,color,είναι,fan,furniture,red,0.3,7,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+5,age,είναι,tomato,food,fresh,0.62,8,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+6,shape,είναι,banana,food,round,0.21,9,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+7,material,δεν είναι,carrot,food,plastic,0.57,10,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+8,size,είναι,cheese,food,small,0.21,11,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+9,age,είναι,desk,furniture,rotten,0.55,12,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+10,size,είναι,carrot,food,long,0.27,13,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+11,texture,είναι,TV,furniture,soft,0.64,14,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+12,size,είναι,cheese,food,short,0.3,15,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+13,quality,δεν είναι,chair,furniture,broken,0.56,16,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+14,color,δεν είναι,fan,furniture,purple,0.25,17,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+15,color,είναι,chair,furniture,blue,0.59,18,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+16,age,είναι,apple,food,new,0.32,19,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+17,color,δεν είναι,banana,food,brown,0.56,20,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+18,size,είναι,banana,food,big,0.38,21,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+19,quality,δεν είναι,cheese,food,good,0.67,22,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+20,color,δεν είναι,cheese,food,green,0.34,23,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+21,shape,είναι,tomato,food,square,0.61,24,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+22,color,είναι,carrot,food,yellow,0.3,25,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+23,texture,είναι,chair,furniture,hard,0.43,26,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+24,material,είναι,desk,furniture,wooden,0.59,27,,-1,,,-1,GREG,greg prolific,Safari,Mac,1440,2560,0.5302833333333333,1,
+0,texture,είναι,cheese,food,smooth,0.22,3,,-1,,,-1,GREG1,,Safari,Mac,1440,2560,0.2661833333333333,2,
+1,material,είναι,banana,food,plastic,0.71,4,,-1,,,-1,GREG1,,Safari,Mac,1440,2560,0.2661833333333333,2,
+0,texture,είναι,tomato,food,hard,0.1,3,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+1,size,είναι,cheese,food,big,0.84,4,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+2,texture,είναι,chair,furniture,smooth,0.07,5,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+3,size,δεν είναι,couch,furniture,tiny,0.52,6,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+4,age,δεν είναι,fan,furniture,new,0.03,7,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+5,color,είναι,desk,furniture,purple,0.1,8,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+6,age,είναι,cheese,food,rotten,0.08,9,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+7,age,δεν είναι,cheese,food,old,0.44,10,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+8,material,είναι,banana,food,wooden,0.0,11,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+9,material,είναι,cheese,food,metal,0.06,12,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+10,age,δεν είναι,cheese,food,fresh,0.41,13,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+11,color,δεν είναι,apple,food,red,0.03,14,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+12,size,δεν είναι,fan,furniture,small,0.5,15,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+13,color,είναι,desk,furniture,yellow,0.02,16,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+14,texture,δεν είναι,TV,furniture,soft,0.67,17,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+15,quality,είναι,banana,food,good,0.97,18,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+16,material,δεν είναι,apple,food,plastic,0.04,19,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+17,color,είναι,banana,food,brown,0.16,20,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+18,shape,δεν είναι,chair,furniture,round,0.79,21,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+19,size,δεν είναι,desk,furniture,long,0.1,22,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+20,size,είναι,fan,furniture,short,0.48,23,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+21,quality,είναι,carrot,food,broken,0.03,24,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+22,shape,δεν είναι,couch,furniture,square,0.02,25,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+23,color,δεν είναι,carrot,food,blue,0.02,26,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+24,color,δεν είναι,banana,food,green,0.04,27,Ελληνικά,1,24,,2,,5b91c6bc0bd5c3000162ed8f,Chrome,Linux,848,424,3.3807833333333335,3,Yes
+0,texture,δεν είναι,couch,furniture,smooth,0.5,3,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+1,material,δεν είναι,chair,furniture,wooden,0.28,4,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+2,quality,είναι,desk,furniture,good,0.5,5,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+3,size,είναι,TV,furniture,tiny,1.0,6,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+4,shape,δεν είναι,apple,food,round,0.0,7,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+5,size,δεν είναι,apple,food,long,0.45,8,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+6,material,δεν είναι,chair,furniture,plastic,0.0,9,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+7,age,είναι,carrot,food,new,0.49,10,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+8,color,είναι,apple,food,brown,0.32,11,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+9,age,είναι,carrot,food,rotten,0.0,12,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+10,age,είναι,apple,food,fresh,0.24,13,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+11,color,είναι,TV,furniture,yellow,0.79,14,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+12,texture,δεν είναι,chair,furniture,hard,1.0,15,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+13,size,δεν είναι,apple,food,short,0.5,16,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+14,quality,δεν είναι,carrot,food,broken,0.0,17,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+15,color,είναι,banana,food,purple,0.0,18,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+16,size,δεν είναι,tomato,food,big,1.0,19,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+17,age,δεν είναι,apple,food,old,0.57,20,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+18,texture,είναι,carrot,food,soft,1.0,21,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+19,size,είναι,banana,food,small,1.0,22,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+20,color,δεν είναι,desk,furniture,red,0.0,23,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+21,color,δεν είναι,fan,furniture,green,0.0,24,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+22,color,δεν είναι,TV,furniture,blue,0.0,25,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+23,material,είναι,banana,food,metal,0.0,26,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+24,shape,είναι,chair,furniture,square,0.0,27,Ελληνικά,2,20,Male,1,ενδιαφέρον τρόπος παρουσίασης,5d7bb3b9bc4ea6001777e7f0,Chrome,Windows,864,1536,4.63225,4,Yes
+0,age,είναι,carrot,food,fresh,0.3,3,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+1,size,είναι,cheese,food,short,0.67,4,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+2,size,δεν είναι,fan,furniture,long,0.63,5,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+3,texture,είναι,chair,furniture,smooth,0.52,6,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+4,size,δεν είναι,cheese,food,tiny,0.31,7,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+5,color,είναι,chair,furniture,red,0.05,8,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+6,color,είναι,carrot,food,brown,0.05,9,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+7,color,δεν είναι,fan,furniture,purple,0.05,10,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+8,size,δεν είναι,carrot,food,big,0.63,11,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+9,color,δεν είναι,cheese,food,yellow,0.33,12,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+10,quality,είναι,couch,furniture,broken,0.53,13,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+11,material,είναι,banana,food,plastic,0.28,14,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+12,material,είναι,TV,furniture,wooden,0.18,15,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+13,material,δεν είναι,couch,furniture,metal,0.12,16,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+14,age,δεν είναι,banana,food,old,0.26,17,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+15,color,δεν είναι,apple,food,blue,0.03,18,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+16,age,δεν είναι,TV,furniture,rotten,0.28,19,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+17,color,δεν είναι,TV,furniture,green,0.03,20,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+18,shape,είναι,carrot,food,square,0.46,21,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+19,texture,δεν είναι,cheese,food,hard,0.61,22,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+20,texture,είναι,banana,food,soft,0.56,23,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+21,shape,είναι,carrot,food,round,0.42,24,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+22,size,είναι,banana,food,small,0.55,25,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+23,quality,είναι,apple,food,good,0.49,26,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+24,age,είναι,cheese,food,new,0.36,27,Ελλάδα,1,24,Male,2,,5aee3ae4223b450001883211,Chrome,Linux,1138,712,7.5556,5,Yes
+0,age,δεν είναι,carrot,food,new,1.0,3,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+1,color,είναι,carrot,food,green,0.0,4,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+2,color,είναι,chair,furniture,red,0.53,5,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+3,texture,είναι,cheese,food,smooth,0.0,6,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+4,age,είναι,tomato,food,old,0.52,7,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+5,shape,δεν είναι,banana,food,round,0.27,8,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+6,size,δεν είναι,banana,food,small,0.59,9,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+7,size,είναι,chair,furniture,tiny,0.24,10,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+8,age,είναι,fan,furniture,rotten,0.44,11,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+9,color,είναι,TV,furniture,purple,1.0,12,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+10,texture,δεν είναι,chair,furniture,soft,0.0,13,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+11,size,δεν είναι,TV,furniture,big,0.12,14,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+12,shape,δεν είναι,couch,furniture,square,0.19,15,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+13,size,είναι,tomato,food,short,1.0,16,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+14,age,είναι,TV,furniture,fresh,0.62,17,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+15,texture,είναι,cheese,food,hard,0.33,18,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+16,color,δεν είναι,chair,furniture,blue,0.58,19,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+17,material,είναι,desk,furniture,metal,0.32,20,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+18,material,είναι,fan,furniture,wooden,0.28,21,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+19,color,είναι,couch,furniture,brown,0.68,22,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+20,quality,δεν είναι,apple,food,broken,0.4,23,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+21,size,δεν είναι,fan,furniture,long,0.03,24,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+22,material,είναι,fan,furniture,plastic,0.8,25,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+23,quality,δεν είναι,banana,food,good,0.27,26,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+24,color,δεν είναι,apple,food,yellow,0.41,27,Ελληνικά ,1,37,Male,0,,george_haritos@hotmail.com,Chrome,Windows,1080,1920,1.7225,6,Yes
+0,size,είναι,carrot,food,long,0.62,3,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+1,material,είναι,TV,furniture,wooden,0.17,4,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+2,color,είναι,couch,furniture,brown,0.21,5,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+3,texture,είναι,tomato,food,hard,0.61,6,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+4,texture,είναι,apple,food,smooth,0.6,7,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+5,size,είναι,carrot,food,tiny,0.25,8,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+6,material,είναι,apple,food,plastic,0.08,9,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+7,age,δεν είναι,carrot,food,fresh,0.53,10,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+8,age,είναι,TV,furniture,old,0.03,11,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+9,material,είναι,desk,furniture,metal,0.12,12,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+10,color,δεν είναι,TV,furniture,purple,0.02,13,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+11,quality,δεν είναι,apple,food,broken,0.0,14,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+12,color,δεν είναι,fan,furniture,red,0.13,15,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+13,quality,είναι,cheese,food,good,1.0,16,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+14,shape,δεν είναι,fan,furniture,round,0.0,17,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+15,size,είναι,tomato,food,small,1.0,18,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+16,age,δεν είναι,carrot,food,new,0.43,19,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+17,color,δεν είναι,couch,furniture,blue,0.0,20,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+18,shape,δεν είναι,desk,furniture,square,0.0,21,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+19,age,δεν είναι,TV,furniture,rotten,0.03,22,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+20,size,είναι,banana,food,big,0.53,23,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+21,size,είναι,carrot,food,short,0.56,24,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+22,color,είναι,chair,furniture,yellow,0.0,25,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+23,color,δεν είναι,carrot,food,green,0.0,26,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+24,texture,δεν είναι,banana,food,soft,0.51,27,greek,2,30,Female,2,,5dcab960575da177d82add3a,Firefox,Windows,864,1536,2.4569,7,Yes
+0,color,δεν είναι,couch,furniture,blue,0.0,3,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+1,color,δεν είναι,fan,furniture,brown,0.08,4,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+2,size,είναι,couch,furniture,big,0.83,5,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+3,color,δεν είναι,apple,food,purple,0.06,6,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+4,age,δεν είναι,banana,food,fresh,0.15,7,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+5,shape,είναι,chair,furniture,square,0.01,8,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+6,size,δεν είναι,carrot,food,long,0.89,9,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+7,material,είναι,desk,furniture,plastic,0.08,10,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+8,size,δεν είναι,chair,furniture,short,0.76,11,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+9,size,είναι,desk,furniture,tiny,0.75,12,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+10,shape,είναι,cheese,food,round,0.0,13,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+11,quality,είναι,desk,furniture,broken,0.78,14,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+12,quality,δεν είναι,couch,furniture,good,1.0,15,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+13,texture,είναι,fan,furniture,hard,0.61,16,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+14,color,δεν είναι,apple,food,red,0.09,17,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+15,texture,είναι,desk,furniture,soft,0.9,18,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+16,size,δεν είναι,fan,furniture,small,0.86,19,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+17,texture,είναι,cheese,food,smooth,0.09,20,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+18,material,είναι,couch,furniture,metal,0.04,21,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+19,color,είναι,apple,food,green,0.0,22,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+20,material,είναι,fan,furniture,wooden,0.06,23,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+21,color,είναι,carrot,food,yellow,0.0,24,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+22,age,είναι,fan,furniture,new,0.85,25,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+23,age,είναι,banana,food,old,0.54,26,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+24,age,είναι,TV,furniture,rotten,0.66,27,Ελληνικά,1,21,Female,0,,5cf9316cd80e0b0019f490e7,Firefox,Windows,1080,1920,3.2595,8,Yes
+0,age,είναι,chair,furniture,fresh,0.0,3,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+1,size,είναι,fan,furniture,long,0.5,4,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+2,color,είναι,apple,food,green,0.0,5,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+3,texture,είναι,fan,furniture,soft,0.0,6,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+4,size,δεν είναι,carrot,food,big,0.0,7,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+5,color,είναι,fan,furniture,purple,0.0,8,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+6,size,δεν είναι,banana,food,short,0.53,9,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+7,shape,είναι,apple,food,square,0.0,10,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+8,quality,δεν είναι,tomato,food,good,1.0,11,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+9,material,δεν είναι,chair,furniture,metal,0.0,12,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+10,color,είναι,couch,furniture,red,0.0,13,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+11,age,είναι,cheese,food,new,0.8,14,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+12,age,είναι,banana,food,rotten,0.0,15,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+13,texture,δεν είναι,chair,furniture,smooth,0.5,16,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+14,color,δεν είναι,chair,furniture,brown,0.0,17,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+15,color,δεν είναι,couch,furniture,yellow,0.0,18,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+16,shape,είναι,apple,food,round,0.0,19,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+17,size,δεν είναι,banana,food,small,0.51,20,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+18,texture,είναι,banana,food,hard,0.46,21,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+19,age,δεν είναι,apple,food,old,1.0,22,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+20,color,είναι,chair,furniture,blue,0.0,23,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+21,material,είναι,carrot,food,wooden,0.0,24,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+22,material,δεν είναι,chair,furniture,plastic,0.0,25,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+23,size,δεν είναι,tomato,food,tiny,0.46,26,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+24,quality,δεν είναι,TV,furniture,broken,0.21,27,Ελληνικά,1,26,Male,1,,5c87d68fe5bc060001ee8498,Firefox,Windows,1080,1920,3.7588333333333335,9,Yes
+0,material,είναι,desk,furniture,wooden,0.0,3,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+1,size,είναι,tomato,food,big,0.6,4,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+2,color,δεν είναι,apple,food,blue,0.0,5,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+3,age,είναι,tomato,food,new,0.49,6,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+4,shape,είναι,cheese,food,square,0.3,7,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+5,age,δεν είναι,tomato,food,fresh,0.62,8,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+6,color,είναι,cheese,food,red,0.24,9,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+7,texture,δεν είναι,couch,furniture,soft,0.78,10,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+8,texture,είναι,banana,food,hard,0.47,11,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+9,age,είναι,chair,furniture,old,0.38,12,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+10,material,δεν είναι,carrot,food,plastic,0.0,13,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+11,color,δεν είναι,fan,furniture,purple,0.59,14,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+12,quality,δεν είναι,couch,furniture,broken,0.87,15,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+13,shape,είναι,TV,furniture,round,0.0,16,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+14,material,είναι,couch,furniture,metal,0.05,17,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+15,quality,είναι,apple,food,good,0.75,18,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+16,color,είναι,TV,furniture,brown,0.0,19,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+17,color,είναι,TV,furniture,yellow,0.0,20,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+18,size,δεν είναι,chair,furniture,short,0.85,21,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+19,size,δεν είναι,couch,furniture,tiny,0.77,22,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+20,color,είναι,TV,furniture,green,0.0,23,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+21,texture,δεν είναι,cheese,food,smooth,0.59,24,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+22,age,δεν είναι,chair,furniture,rotten,0.44,25,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+23,size,δεν είναι,couch,furniture,long,0.66,26,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+24,size,είναι,cheese,food,small,0.62,27,Ελληνικά,2,28,Male,2,,5c3885dcf5ebd5000184defb,Chrome,Windows,864,1536,4.127816666666667,10,No
+0,age,δεν είναι,TV,furniture,old,0.0,3,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+1,age,είναι,cheese,food,fresh,1.0,4,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+2,texture,δεν είναι,banana,food,soft,0.0,5,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+3,quality,είναι,chair,furniture,broken,0.0,6,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+4,quality,είναι,carrot,food,good,0.0,7,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+5,age,δεν είναι,fan,furniture,rotten,1.0,8,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+6,color,είναι,desk,furniture,yellow,0.0,9,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+7,color,είναι,carrot,food,blue,0.0,10,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+8,color,είναι,TV,furniture,red,0.0,11,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+9,shape,είναι,tomato,food,round,0.0,12,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+10,size,δεν είναι,TV,furniture,small,1.0,13,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+11,size,είναι,cheese,food,long,1.0,14,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+12,texture,δεν είναι,banana,food,smooth,1.0,15,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+13,material,είναι,fan,furniture,wooden,0.0,16,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+14,size,δεν είναι,TV,furniture,short,1.0,17,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+15,material,είναι,couch,furniture,plastic,0.0,18,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+16,size,είναι,desk,furniture,tiny,1.0,19,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+17,color,δεν είναι,fan,furniture,purple,0.0,20,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+18,size,δεν είναι,desk,furniture,big,1.0,21,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+19,color,είναι,carrot,food,green,0.01,22,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+20,color,δεν είναι,desk,furniture,brown,0.0,23,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+21,shape,δεν είναι,TV,furniture,square,0.0,24,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+22,age,δεν είναι,cheese,food,new,1.0,25,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+23,material,δεν είναι,chair,furniture,metal,0.0,26,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+24,texture,είναι,chair,furniture,hard,1.0,27,ελληνικα ,2,23,Female,2,ηταν ενδιαφερον ,5d9a40d81abbe700154a04a0,Chrome,Windows,900,1600,4.109633333333333,11,Yes
+0,shape,είναι,apple,food,square,0.26,3,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+1,material,είναι,apple,food,metal,0.84,4,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+2,size,είναι,TV,furniture,tiny,0.92,5,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+3,texture,είναι,tomato,food,hard,0.86,6,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+4,quality,είναι,couch,furniture,broken,0.6,7,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+5,color,είναι,couch,furniture,blue,0.46,8,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+6,quality,δεν είναι,chair,furniture,good,0.67,9,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+7,age,δεν είναι,TV,furniture,new,0.16,10,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+8,size,είναι,carrot,food,short,0.61,11,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+9,shape,είναι,carrot,food,round,0.19,12,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+10,material,είναι,couch,furniture,wooden,0.81,13,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+11,size,δεν είναι,cheese,food,big,0.82,14,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+12,size,δεν είναι,banana,food,small,0.79,15,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+13,material,είναι,desk,furniture,plastic,0.76,16,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+14,age,είναι,tomato,food,fresh,0.73,17,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+15,texture,είναι,desk,furniture,soft,0.7,18,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+16,age,είναι,carrot,food,old,0.65,19,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+17,size,δεν είναι,TV,furniture,long,0.63,20,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+18,color,δεν είναι,carrot,food,green,0.58,21,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+19,color,δεν είναι,carrot,food,yellow,0.59,22,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+20,color,δεν είναι,chair,furniture,brown,0.67,23,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+21,texture,είναι,desk,furniture,smooth,0.7,24,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+22,age,είναι,chair,furniture,rotten,0.62,25,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+23,color,δεν είναι,TV,furniture,purple,0.65,26,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+24,color,είναι,desk,furniture,red,0.71,27,Ελληνικά,1,28,Male,1,,5c18b67fc14ec10001c36cb0,Firefox,Windows,1080,1920,4.653766666666667,12,Yes
+0,age,δεν είναι,chair,furniture,old,0.06,3,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+1,size,είναι,desk,furniture,big,0.05,4,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+2,age,δεν είναι,carrot,food,rotten,0.08,5,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+3,size,είναι,tomato,food,tiny,0.12,6,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+4,texture,δεν είναι,TV,furniture,soft,0.03,7,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+5,size,δεν είναι,fan,furniture,short,0.09,8,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+6,color,είναι,apple,food,yellow,0.94,9,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+7,size,δεν είναι,chair,furniture,small,0.07,10,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+8,age,είναι,cheese,food,fresh,0.17,11,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+9,material,είναι,couch,furniture,wooden,0.08,12,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+10,texture,δεν είναι,TV,furniture,smooth,0.11,13,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+11,texture,δεν είναι,couch,furniture,hard,0.12,14,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+12,color,δεν είναι,tomato,food,brown,0.13,15,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+13,quality,είναι,fan,furniture,broken,0.1,16,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+14,shape,είναι,banana,food,round,0.11,17,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+15,shape,δεν είναι,chair,furniture,square,0.13,18,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+16,quality,είναι,cheese,food,good,0.1,19,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+17,color,δεν είναι,chair,furniture,blue,0.06,20,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+18,material,δεν είναι,fan,furniture,metal,0.09,21,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+19,age,είναι,tomato,food,new,0.1,22,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+20,size,είναι,carrot,food,long,0.14,23,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+21,color,δεν είναι,chair,furniture,green,0.07,24,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+22,color,δεν είναι,TV,furniture,purple,0.07,25,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+23,material,είναι,carrot,food,plastic,0.08,26,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+24,color,δεν είναι,cheese,food,red,0.12,27,Ελληνικά ,1,24,Male,2,,5cb8f5768b432900013636ac,Chrome,Linux,740,360,5.78045,13,Yes
+0,size,δεν είναι,tomato,food,long,0.49,3,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+1,color,δεν είναι,apple,food,blue,0.0,4,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+2,color,είναι,desk,furniture,yellow,0.26,5,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+3,age,είναι,banana,food,new,0.21,6,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+4,size,είναι,cheese,food,big,0.45,7,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+5,texture,δεν είναι,couch,furniture,soft,0.14,8,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+6,color,είναι,desk,furniture,red,0.12,9,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+7,material,είναι,carrot,food,metal,0.35,10,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+8,quality,είναι,fan,furniture,broken,0.0,11,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+9,texture,δεν είναι,apple,food,hard,0.7,12,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+10,texture,είναι,chair,furniture,smooth,0.07,13,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+11,color,δεν είναι,carrot,food,purple,0.06,14,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+12,material,δεν είναι,couch,furniture,plastic,0.0,15,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+13,age,δεν είναι,fan,furniture,fresh,0.98,16,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+14,color,δεν είναι,carrot,food,brown,0.07,17,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+15,quality,είναι,fan,furniture,good,1.0,18,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+16,size,είναι,TV,furniture,small,0.52,19,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+17,age,δεν είναι,banana,food,old,0.16,20,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+18,size,είναι,couch,furniture,tiny,0.03,21,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+19,age,είναι,chair,furniture,rotten,0.31,22,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+20,shape,δεν είναι,cheese,food,square,0.0,23,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+21,color,είναι,carrot,food,green,0.15,24,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+22,shape,δεν είναι,banana,food,round,0.43,25,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+23,material,δεν είναι,cheese,food,wooden,0.0,26,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+24,size,δεν είναι,chair,furniture,short,0.26,27,Ελληνικά,1,35,Male,3,Most of the questions were not making any sense in greek language whatsoever.,5dee62c0770a434f62147de2,Firefox,Linux,768,1366,6.435033333333333,14,Yes
+0,texture,δεν είναι,chair,furniture,soft,0.11,3,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+1,shape,είναι,TV,furniture,round,0.0,4,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+2,size,δεν είναι,banana,food,long,0.25,5,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+3,texture,δεν είναι,chair,furniture,hard,0.29,6,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+4,size,δεν είναι,banana,food,big,0.36,7,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+5,age,είναι,TV,furniture,old,1.0,8,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+6,size,είναι,tomato,food,short,1.0,9,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+7,quality,δεν είναι,couch,furniture,broken,0.0,10,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+8,material,δεν είναι,TV,furniture,plastic,0.0,11,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+9,color,είναι,tomato,food,brown,0.0,12,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+10,age,δεν είναι,cheese,food,rotten,0.0,13,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+11,size,είναι,chair,furniture,tiny,1.0,14,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+12,shape,είναι,desk,furniture,square,0.0,15,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+13,texture,δεν είναι,fan,furniture,smooth,0.0,16,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+14,quality,είναι,TV,furniture,good,0.64,17,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+15,color,δεν είναι,cheese,food,red,0.0,18,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+16,color,δεν είναι,chair,furniture,blue,0.0,19,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+17,color,δεν είναι,banana,food,green,0.0,20,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+18,color,είναι,carrot,food,purple,0.0,21,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+19,color,είναι,banana,food,yellow,0.0,22,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+20,material,είναι,apple,food,metal,0.0,23,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+21,age,είναι,tomato,food,new,0.51,24,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+22,material,δεν είναι,couch,furniture,wooden,0.0,25,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+23,age,είναι,tomato,food,fresh,0.49,26,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+24,size,δεν είναι,chair,furniture,small,0.48,27,Ελληνικα,1,20,Male,0,Περιεργο πειραμα αλλα ενδιαφερον!,5d614ef154d79c0001984198,Chrome,Windows,768,1366,4.989583333333333,15,Yes
+0,size,δεν είναι,desk,furniture,tiny,1.0,3,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+1,quality,δεν είναι,cheese,food,good,1.0,4,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+2,size,δεν είναι,chair,furniture,short,1.0,5,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+3,quality,είναι,apple,food,broken,0.0,6,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+4,color,δεν είναι,desk,furniture,red,0.0,7,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+5,size,δεν είναι,tomato,food,big,1.0,8,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+6,shape,δεν είναι,couch,furniture,round,0.0,9,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+7,age,δεν είναι,banana,food,fresh,1.0,10,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+8,color,δεν είναι,couch,furniture,yellow,0.0,11,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+9,texture,είναι,couch,furniture,soft,1.0,12,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+10,material,είναι,banana,food,metal,0.0,13,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+11,color,είναι,cheese,food,purple,0.0,14,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+12,age,είναι,apple,food,new,0.0,15,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+13,material,είναι,apple,food,wooden,0.0,16,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+14,color,δεν είναι,desk,furniture,blue,0.0,17,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+15,shape,είναι,TV,furniture,square,0.0,18,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+16,age,είναι,desk,furniture,old,1.0,19,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+17,color,δεν είναι,couch,furniture,brown,1.0,20,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+18,size,δεν είναι,fan,furniture,long,1.0,21,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+19,texture,δεν είναι,apple,food,smooth,1.0,22,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+20,texture,είναι,desk,furniture,hard,0.99,23,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+21,color,είναι,desk,furniture,green,0.04,24,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+22,size,είναι,desk,furniture,small,0.95,25,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+23,material,είναι,TV,furniture,plastic,0.0,26,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+24,age,είναι,apple,food,rotten,0.02,27,ΕΛΛΗΝΙΚΑ,2,38,Male,1,Γρηγορο και ενδιαφερων,5d8f8a5957a20a0017eb714d,Chrome,Windows,864,1536,4.653766666666667,16,Yes
+0,age,δεν είναι,couch,furniture,new,0.04,3,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+1,color,δεν είναι,apple,food,brown,0.06,4,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+2,color,δεν είναι,fan,furniture,green,0.06,5,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+3,age,είναι,tomato,food,fresh,0.95,6,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+4,texture,δεν είναι,carrot,food,soft,0.96,7,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+5,size,δεν είναι,carrot,food,small,0.93,8,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+6,size,δεν είναι,banana,food,big,0.95,9,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+7,color,είναι,couch,furniture,purple,0.02,10,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+8,quality,είναι,tomato,food,good,0.95,11,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+9,size,είναι,tomato,food,long,0.96,12,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+10,material,είναι,tomato,food,plastic,0.01,13,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+11,quality,δεν είναι,desk,furniture,broken,0.5,14,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+12,age,είναι,tomato,food,old,0.52,15,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+13,color,δεν είναι,TV,furniture,blue,0.01,16,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+14,size,είναι,TV,furniture,tiny,0.95,17,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+15,color,είναι,banana,food,yellow,0.06,18,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+16,shape,δεν είναι,banana,food,square,0.06,19,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+17,shape,είναι,fan,furniture,round,0.06,20,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+18,age,είναι,fan,furniture,rotten,0.51,21,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+19,size,είναι,TV,furniture,short,0.96,22,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+20,texture,δεν είναι,carrot,food,smooth,0.96,23,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+21,texture,είναι,fan,furniture,hard,0.94,24,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+22,color,δεν είναι,carrot,food,red,0.06,25,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+23,material,είναι,desk,furniture,wooden,0.06,26,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+24,material,δεν είναι,cheese,food,metal,0.01,27,Ελλάδα,2,25,Male,1,,5c6cb4163023800001e71898,Chrome,Windows,768,1366,5.5558,17,Yes
+0,material,δεν είναι,desk,furniture,metal,0.0,3,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+1,quality,είναι,carrot,food,broken,0.0,4,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+2,material,δεν είναι,chair,furniture,wooden,0.23,5,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+3,age,δεν είναι,banana,food,new,0.44,6,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+4,quality,είναι,couch,furniture,good,1.0,7,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+5,size,είναι,carrot,food,long,1.0,8,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+6,age,δεν είναι,couch,furniture,fresh,1.0,9,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+7,shape,είναι,TV,furniture,round,0.0,10,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+8,color,δεν είναι,couch,furniture,green,0.12,11,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+9,texture,είναι,couch,furniture,smooth,0.79,12,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+10,material,είναι,carrot,food,plastic,0.0,13,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+11,texture,δεν είναι,couch,furniture,hard,0.97,14,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+12,color,δεν είναι,banana,food,red,0.1,15,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+13,color,δεν είναι,TV,furniture,yellow,0.09,16,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+14,color,δεν είναι,TV,furniture,purple,0.14,17,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+15,size,δεν είναι,apple,food,small,0.95,18,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+16,size,είναι,apple,food,tiny,0.32,19,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+17,size,είναι,tomato,food,big,0.96,20,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+18,age,δεν είναι,chair,furniture,rotten,0.3,21,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+19,size,είναι,desk,furniture,short,1.0,22,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+20,age,δεν είναι,fan,furniture,old,0.5,23,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+21,color,δεν είναι,cheese,food,brown,0.0,24,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+22,texture,είναι,desk,furniture,soft,0.82,25,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+23,shape,δεν είναι,couch,furniture,square,0.28,26,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+24,color,είναι,apple,food,blue,0.19,27,Ελληνικά,2,30,Male,2,,5acb55010527ba0001c25592,Chrome,Windows,1080,1920,3.9359,18,Yes
+0,shape,δεν είναι,TV,furniture,square,0.0,3,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+1,texture,δεν είναι,chair,furniture,hard,1.0,4,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+2,size,δεν είναι,chair,furniture,big,1.0,5,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+3,shape,δεν είναι,tomato,food,round,0.51,6,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+4,age,δεν είναι,TV,furniture,new,0.0,7,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+5,age,δεν είναι,chair,furniture,rotten,0.0,8,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+6,age,είναι,tomato,food,old,0.48,9,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+7,texture,δεν είναι,banana,food,smooth,0.0,10,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+8,size,δεν είναι,cheese,food,tiny,0.0,11,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+9,color,είναι,apple,food,purple,0.0,12,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+10,color,είναι,carrot,food,green,0.0,13,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+11,material,δεν είναι,chair,furniture,plastic,0.0,14,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+12,quality,δεν είναι,tomato,food,broken,0.67,15,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+13,material,δεν είναι,tomato,food,metal,0.0,16,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+14,quality,δεν είναι,couch,furniture,good,1.0,17,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+15,color,είναι,chair,furniture,blue,0.15,18,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+16,size,είναι,carrot,food,small,0.75,19,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+17,color,είναι,desk,furniture,brown,0.2,20,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+18,size,δεν είναι,couch,furniture,short,0.63,21,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+19,size,είναι,apple,food,long,0.12,22,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+20,color,δεν είναι,desk,furniture,yellow,0.0,23,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+21,age,δεν είναι,TV,furniture,fresh,0.0,24,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+22,material,είναι,apple,food,wooden,0.0,25,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+23,texture,είναι,fan,furniture,soft,0.81,26,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+24,color,δεν είναι,apple,food,red,0.07,27,Ελληνικά,2,22,Female,0,,5dbfdbcda42b0142bac98de4,Chrome,Windows,864,1536,5.88405,19,Yes
+0,shape,είναι,couch,furniture,round,1.0,3,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+1,material,δεν είναι,banana,food,metal,0.0,4,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+2,color,είναι,desk,furniture,red,0.85,5,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+3,texture,δεν είναι,fan,furniture,smooth,0.0,6,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+4,age,είναι,chair,furniture,rotten,1.0,7,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+5,color,δεν είναι,apple,food,brown,0.0,8,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+6,color,είναι,apple,food,blue,0.0,9,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+7,age,δεν είναι,desk,furniture,old,1.0,10,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+8,quality,είναι,apple,food,broken,1.0,11,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+9,size,είναι,TV,furniture,big,1.0,12,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+10,material,είναι,tomato,food,wooden,0.0,13,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+11,size,είναι,fan,furniture,long,1.0,14,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+12,size,είναι,couch,furniture,short,0.0,15,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+13,color,δεν είναι,banana,food,yellow,0.79,16,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+14,size,είναι,tomato,food,small,1.0,17,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+15,texture,είναι,fan,furniture,soft,1.0,18,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+16,color,είναι,tomato,food,green,0.0,19,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+17,age,δεν είναι,chair,furniture,new,1.0,20,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+18,size,δεν είναι,tomato,food,tiny,0.34,21,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+19,quality,είναι,cheese,food,good,1.0,22,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+20,shape,είναι,TV,furniture,square,0.0,23,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+21,texture,είναι,carrot,food,hard,0.72,24,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+22,age,είναι,desk,furniture,fresh,0.04,25,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+23,material,είναι,tomato,food,plastic,0.0,26,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+24,color,είναι,TV,furniture,purple,0.0,27,Ελλάδα,2,20,Male,1,Μου άρεσε η έρευα είναι απλή και μικρή σε διάρκεια. ,5de5157820c5aa09b7a53b89,Chrome,Windows,900,1440,5.843583333333333,20,Yes
+0,texture,δεν είναι,fan,furniture,soft,0.81,3,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+1,age,δεν είναι,tomato,food,new,0.34,4,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+2,quality,είναι,cheese,food,good,0.84,5,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+3,texture,δεν είναι,banana,food,hard,0.1,6,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+4,material,είναι,TV,furniture,wooden,0.0,7,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+5,size,δεν είναι,tomato,food,tiny,0.06,8,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+6,shape,δεν είναι,fan,furniture,square,0.11,9,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+7,age,δεν είναι,carrot,food,old,0.14,10,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+8,color,είναι,cheese,food,green,0.05,11,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+9,color,είναι,apple,food,purple,0.06,12,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+10,color,είναι,desk,furniture,brown,0.0,13,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+11,size,είναι,chair,furniture,small,0.8,14,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+12,size,δεν είναι,cheese,food,long,0.2,15,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+13,age,είναι,fan,furniture,rotten,0.78,16,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+14,color,είναι,fan,furniture,blue,0.3,17,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+15,age,δεν είναι,chair,furniture,fresh,0.83,18,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+16,material,είναι,cheese,food,metal,0.14,19,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+17,size,δεν είναι,couch,furniture,big,0.92,20,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+18,shape,είναι,fan,furniture,round,0.82,21,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+19,color,δεν είναι,couch,furniture,red,0.9,22,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+20,texture,δεν είναι,fan,furniture,smooth,0.39,23,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+21,material,δεν είναι,couch,furniture,plastic,0.03,24,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+22,color,δεν είναι,tomato,food,yellow,0.0,25,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+23,size,είναι,cheese,food,short,0.8,26,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+24,quality,είναι,fan,furniture,broken,0.0,27,ΕΛΛΗΝΙΚΑ,2,29,Male,1,καλο το πειραμα αλλα θα ηθελα λιγο πιο δυσκολες επιλογες,5cba2b1e0288d8001853c539,Chrome,Windows,720,1280,5.568416666666667,21,Yes
+0,size,δεν είναι,TV,furniture,big,0.06,3,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+1,texture,είναι,apple,food,soft,0.27,4,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+2,shape,δεν είναι,carrot,food,round,0.11,5,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+3,color,είναι,fan,furniture,green,0.82,6,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+4,color,είναι,banana,food,yellow,0.42,7,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+5,quality,είναι,cheese,food,good,0.08,8,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+6,quality,δεν είναι,tomato,food,broken,0.45,9,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+7,color,είναι,cheese,food,red,0.48,10,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+8,texture,είναι,chair,furniture,smooth,0.07,11,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+9,size,δεν είναι,desk,furniture,long,0.69,12,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+10,material,είναι,carrot,food,wooden,0.09,13,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+11,age,είναι,TV,furniture,rotten,0.35,14,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+12,shape,δεν είναι,chair,furniture,square,0.02,15,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+13,color,δεν είναι,tomato,food,brown,0.27,16,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+14,material,δεν είναι,banana,food,metal,0.05,17,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+15,size,δεν είναι,cheese,food,tiny,0.44,18,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+16,color,δεν είναι,banana,food,blue,0.03,19,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+17,age,είναι,apple,food,new,0.57,20,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+18,size,δεν είναι,carrot,food,short,0.82,21,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+19,age,είναι,TV,furniture,old,0.7,22,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+20,texture,δεν είναι,desk,furniture,hard,0.98,23,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+21,material,δεν είναι,chair,furniture,plastic,0.09,24,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+22,size,δεν είναι,TV,furniture,small,0.91,25,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+23,color,δεν είναι,banana,food,purple,0.22,26,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+24,age,δεν είναι,banana,food,fresh,0.64,27,,2,21,Male,1,,5d5fc0ad29b1d80001430de0,Chrome,Linux,640,360,5.57355,22,Yes
+0,quality,δεν είναι,tomato,food,good,0.58,3,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+1,color,είναι,banana,food,brown,0.53,4,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+2,material,δεν είναι,banana,food,metal,0.0,5,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+3,size,δεν είναι,carrot,food,small,0.29,6,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+4,shape,είναι,carrot,food,square,0.0,7,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+5,texture,δεν είναι,apple,food,hard,0.62,8,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+6,color,δεν είναι,desk,furniture,yellow,0.0,9,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+7,size,είναι,TV,furniture,tiny,0.26,10,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+8,color,είναι,chair,furniture,blue,0.0,11,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+9,texture,δεν είναι,carrot,food,smooth,0.39,12,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+10,color,δεν είναι,banana,food,green,0.2,13,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+11,texture,δεν είναι,carrot,food,soft,0.35,14,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+12,size,είναι,carrot,food,short,0.25,15,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+13,size,δεν είναι,chair,furniture,big,0.31,16,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+14,size,είναι,banana,food,long,0.24,17,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+15,shape,δεν είναι,fan,furniture,round,0.0,18,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+16,color,δεν είναι,TV,furniture,red,0.03,19,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+17,age,είναι,fan,furniture,fresh,0.2,20,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+18,material,δεν είναι,banana,food,plastic,0.0,21,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+19,age,δεν είναι,cheese,food,new,0.02,22,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+20,age,είναι,banana,food,rotten,0.0,23,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+21,material,είναι,cheese,food,wooden,0.0,24,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+22,age,δεν είναι,desk,furniture,old,0.37,25,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+23,color,είναι,apple,food,purple,0.0,26,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+24,quality,δεν είναι,tomato,food,broken,0.0,27,Ελληνική,1,28,Male,2,,5829e0127b7ff000012ec343,Chrome,Windows,720,1280,4.63615,23,Yes
+0,size,δεν είναι,chair,furniture,tiny,0.1,3,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+1,size,δεν είναι,desk,furniture,small,0.33,4,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+2,age,είναι,cheese,food,new,0.52,5,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+3,texture,δεν είναι,apple,food,smooth,0.0,6,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+4,size,είναι,couch,furniture,short,0.78,7,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+5,material,δεν είναι,apple,food,metal,0.0,8,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+6,color,είναι,desk,furniture,brown,0.71,9,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+7,size,είναι,carrot,food,long,0.18,10,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+8,color,δεν είναι,desk,furniture,blue,0.49,11,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+9,color,είναι,fan,furniture,purple,0.6,12,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+10,shape,είναι,banana,food,round,0.0,13,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+11,age,είναι,chair,furniture,fresh,0.6,14,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+12,color,δεν είναι,desk,furniture,green,0.6,15,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+13,texture,δεν είναι,chair,furniture,hard,1.0,16,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+14,quality,είναι,tomato,food,broken,0.13,17,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+15,color,είναι,chair,furniture,red,0.0,18,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+16,size,είναι,chair,furniture,big,0.78,19,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+17,color,δεν είναι,fan,furniture,yellow,0.0,20,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+18,shape,είναι,cheese,food,square,0.0,21,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+19,age,δεν είναι,desk,furniture,rotten,0.1,22,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+20,texture,δεν είναι,couch,furniture,soft,0.89,23,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+21,quality,δεν είναι,banana,food,good,0.87,24,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+22,material,δεν είναι,cheese,food,wooden,0.06,25,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+23,age,δεν είναι,banana,food,old,0.83,26,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+24,material,δεν είναι,fan,furniture,plastic,0.04,27,Ελληνικά,1,31,Male,3,Θα ήταν καλύτερα αν η μπάρα είχε κάποια βαθμονόμηση.,5dee90a5381d635253552098,Chrome,Windows,1080,1920,3.9054,24,Yes
+0,age,είναι,chair,furniture,rotten,0.0,3,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+1,texture,είναι,desk,furniture,soft,0.69,4,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+2,color,είναι,banana,food,purple,0.23,5,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+3,quality,δεν είναι,chair,furniture,broken,0.68,6,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+4,texture,δεν είναι,tomato,food,smooth,0.13,7,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+5,shape,δεν είναι,desk,furniture,square,0.24,8,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+6,age,δεν είναι,chair,furniture,fresh,0.7,9,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+7,size,είναι,chair,furniture,big,1.0,10,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+8,color,είναι,banana,food,brown,0.56,11,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+9,color,είναι,TV,furniture,yellow,0.57,12,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+10,texture,δεν είναι,cheese,food,hard,0.84,13,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+11,age,δεν είναι,desk,furniture,old,0.84,14,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+12,color,δεν είναι,desk,furniture,green,0.6,15,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+13,color,είναι,apple,food,blue,0.58,16,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+14,shape,είναι,cheese,food,round,0.3,17,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+15,size,δεν είναι,banana,food,long,1.0,18,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+16,age,δεν είναι,TV,furniture,new,0.77,19,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+17,size,δεν είναι,tomato,food,short,1.0,20,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+18,quality,δεν είναι,banana,food,good,1.0,21,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+19,color,είναι,TV,furniture,red,0.54,22,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+20,material,είναι,cheese,food,wooden,0.19,23,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+21,material,δεν είναι,carrot,food,plastic,0.0,24,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+22,size,δεν είναι,cheese,food,tiny,0.75,25,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+23,size,δεν είναι,desk,furniture,small,0.81,26,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+24,material,είναι,banana,food,metal,0.15,27,Ελληνικά,2,24,Male,2,,5ce14685c07328001a4c088c,Chrome,Linux,1080,1920,6.8087,25,Yes
+0,texture,δεν είναι,apple,food,smooth,0.13,3,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+1,age,δεν είναι,tomato,food,rotten,0.87,4,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+2,shape,δεν είναι,banana,food,round,0.0,5,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+3,size,είναι,couch,furniture,small,0.84,6,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+4,age,είναι,apple,food,fresh,0.15,7,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+5,color,δεν είναι,apple,food,green,0.0,8,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+6,color,είναι,apple,food,blue,0.0,9,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+7,age,είναι,chair,furniture,old,0.87,10,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+8,size,είναι,desk,furniture,tiny,0.0,11,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+9,size,είναι,fan,furniture,short,0.15,12,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+10,quality,δεν είναι,TV,furniture,good,1.0,13,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+11,texture,δεν είναι,chair,furniture,hard,0.07,14,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+12,color,είναι,desk,furniture,yellow,0.0,15,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+13,color,είναι,tomato,food,purple,0.0,16,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+14,shape,δεν είναι,carrot,food,square,0.0,17,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+15,texture,δεν είναι,chair,furniture,soft,0.45,18,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+16,quality,είναι,fan,furniture,broken,0.12,19,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+17,color,δεν είναι,TV,furniture,red,0.0,20,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+18,material,είναι,chair,furniture,metal,0.31,21,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+19,color,δεν είναι,couch,furniture,brown,0.0,22,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+20,material,είναι,desk,furniture,plastic,0.32,23,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+21,material,δεν είναι,desk,furniture,wooden,0.28,24,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+22,size,είναι,apple,food,long,0.24,25,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+23,size,δεν είναι,tomato,food,big,0.63,26,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+24,age,δεν είναι,chair,furniture,new,0.56,27,Ελληνικά,1,20,Male,2,Καλό,5d0ca41b9d4967001a38401d,Chrome,Windows,1080,1920,6.070166666666666,26,Yes
+0,texture,είναι,carrot,food,hard,0.0,3,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+1,size,δεν είναι,apple,food,small,1.0,4,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+2,age,είναι,banana,food,rotten,1.0,5,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+3,color,είναι,chair,furniture,green,0.0,6,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+4,size,δεν είναι,banana,food,long,1.0,7,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+5,size,δεν είναι,desk,furniture,short,1.0,8,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+6,color,δεν είναι,carrot,food,purple,0.0,9,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+7,age,δεν είναι,TV,furniture,old,0.0,10,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+8,texture,είναι,apple,food,smooth,1.0,11,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+9,material,είναι,TV,furniture,metal,0.0,12,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+10,age,είναι,desk,furniture,new,1.0,13,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+11,shape,είναι,desk,furniture,square,0.0,14,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+12,size,είναι,tomato,food,tiny,0.26,15,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+13,material,δεν είναι,carrot,food,plastic,0.0,16,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+14,color,δεν είναι,tomato,food,yellow,0.0,17,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+15,material,δεν είναι,fan,furniture,wooden,0.03,18,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+16,shape,είναι,fan,furniture,round,0.0,19,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+17,quality,δεν είναι,chair,furniture,good,0.85,20,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+18,color,είναι,fan,furniture,red,0.05,21,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+19,size,δεν είναι,fan,furniture,big,0.75,22,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+20,quality,είναι,desk,furniture,broken,0.15,23,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+21,color,δεν είναι,chair,furniture,blue,0.0,24,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+22,color,είναι,chair,furniture,brown,0.0,25,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+23,texture,δεν είναι,fan,furniture,soft,0.2,26,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+24,age,είναι,cheese,food,fresh,0.08,27,Ελληνικά,1,27,,2,,5def93eea20dbe60f20d9ede,Firefox,Linux,1080,1920,6.734083333333333,27,Yes
+0,material,δεν είναι,apple,food,plastic,0.0,3,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+1,color,είναι,tomato,food,yellow,1.0,4,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+2,color,δεν είναι,chair,furniture,green,1.0,5,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+3,age,είναι,tomato,food,new,1.0,6,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+4,age,είναι,carrot,food,old,1.0,7,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+5,age,είναι,cheese,food,fresh,1.0,8,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+6,quality,δεν είναι,apple,food,good,1.0,9,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+7,size,δεν είναι,couch,furniture,tiny,1.0,10,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+8,size,δεν είναι,cheese,food,big,1.0,11,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+9,color,δεν είναι,apple,food,blue,0.0,12,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+10,color,δεν είναι,couch,furniture,red,1.0,13,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+11,shape,είναι,cheese,food,square,1.0,14,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+12,texture,είναι,TV,furniture,smooth,1.0,15,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+13,quality,είναι,apple,food,broken,1.0,16,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+14,size,είναι,couch,furniture,short,1.0,17,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+15,texture,είναι,couch,furniture,soft,1.0,18,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+16,age,είναι,couch,furniture,rotten,0.0,19,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+17,color,είναι,cheese,food,purple,1.0,20,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+18,size,δεν είναι,TV,furniture,small,1.0,21,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+19,texture,δεν είναι,apple,food,hard,1.0,22,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+20,shape,δεν είναι,fan,furniture,round,1.0,23,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+21,size,είναι,apple,food,long,1.0,24,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+22,color,δεν είναι,carrot,food,brown,1.0,25,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+23,material,δεν είναι,TV,furniture,metal,0.0,26,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+24,material,είναι,fan,furniture,wooden,0.0,27,ελληνικα,2,24,Female,2,Ενδιαφερον πειραμα.. νομιζω δειχνει πως τα περισσοτερα πραγματα ειναι σχετικα,5cd30b2041a6b8001874c41f,Chrome,Windows,864,1536,8.492333333333333,28,Yes
+0,size,δεν είναι,couch,furniture,long,0.92,3,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+1,shape,είναι,chair,furniture,square,0.08,4,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+2,texture,δεν είναι,banana,food,smooth,0.49,5,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+3,size,είναι,cheese,food,tiny,0.3,6,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+4,quality,είναι,fan,furniture,broken,0.01,7,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+5,color,δεν είναι,apple,food,green,0.14,8,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+6,age,είναι,carrot,food,old,0.28,9,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+7,shape,δεν είναι,tomato,food,round,0.03,10,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+8,color,είναι,banana,food,brown,0.27,11,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+9,age,δεν είναι,desk,furniture,fresh,0.31,12,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+10,size,είναι,desk,furniture,big,0.77,13,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+11,color,είναι,chair,furniture,red,0.25,14,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+12,texture,δεν είναι,cheese,food,hard,0.64,15,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+13,size,δεν είναι,TV,furniture,small,0.73,16,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+14,color,δεν είναι,couch,furniture,purple,0.56,17,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+15,size,δεν είναι,couch,furniture,short,0.93,18,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+16,age,είναι,cheese,food,rotten,0.08,19,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+17,age,είναι,chair,furniture,new,0.19,20,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+18,material,είναι,desk,furniture,plastic,0.04,21,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+19,color,είναι,fan,furniture,yellow,0.14,22,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+20,texture,δεν είναι,chair,furniture,soft,0.52,23,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+21,quality,είναι,chair,furniture,good,0.98,24,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+22,color,δεν είναι,banana,food,blue,0.04,25,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+23,material,είναι,fan,furniture,wooden,0.0,26,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+24,material,είναι,fan,furniture,metal,0.01,27,Ελληνικα,2,19,Male,0,"Ηταν ενδιαφερον. Στις ερωτησεις που αφορουσαν χρωματα, ενω γενικα θεωρω οτι το χρωμα ειναι κατι συγκεκριμενο, δεν απαντησα απολυτα, διοτι ως πασχων απο ελαφρια μορφη δυσχρωματοψιας καταλβαινω οτι δεν αντιλαμβανομαστε ολοι τα χρωματα με τον ιδιο τροπο. Με την ιδια λογικη, ο καθενας μας εχει διαφορετικη κριτικη για το τι ειναι αρκετα μεγαλο, μικρο, ψηλο, κοντο, κτλ.",5d867b0c1b729e001795c98e,Safari,Mac,1024,768,4.81495,29,Yes
+0,size,δεν είναι,fan,furniture,small,1.0,3,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+1,size,δεν είναι,desk,furniture,long,0.99,4,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+2,quality,δεν είναι,tomato,food,good,0.98,5,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+3,texture,δεν είναι,cheese,food,hard,1.0,6,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+4,age,είναι,carrot,food,fresh,0.99,7,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+5,color,δεν είναι,TV,furniture,red,0.0,8,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+6,age,δεν είναι,carrot,food,new,0.0,9,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+7,color,δεν είναι,banana,food,blue,0.0,10,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+8,color,δεν είναι,carrot,food,green,0.0,11,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+9,size,δεν είναι,apple,food,tiny,1.0,12,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+10,color,είναι,banana,food,purple,0.0,13,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+11,size,είναι,desk,furniture,big,1.0,14,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+12,age,είναι,tomato,food,old,1.0,15,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+13,shape,είναι,fan,furniture,square,0.0,16,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+14,material,είναι,banana,food,metal,0.0,17,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+15,size,δεν είναι,tomato,food,short,1.0,18,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+16,material,δεν είναι,couch,furniture,plastic,0.0,19,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+17,material,είναι,couch,furniture,wooden,0.0,20,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+18,color,δεν είναι,cheese,food,yellow,0.0,21,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+19,age,είναι,banana,food,rotten,0.0,22,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+20,shape,δεν είναι,TV,furniture,round,0.0,23,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+21,texture,είναι,carrot,food,smooth,1.0,24,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+22,color,είναι,chair,furniture,brown,0.0,25,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+23,quality,δεν είναι,banana,food,broken,1.0,26,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+24,texture,είναι,banana,food,soft,1.0,27,Ελληνικά,2,30,Female,3,,5d6ff29b6fa93a001d61fc06,Firefox,Windows,768,1366,9.285283333333334,30,Yes
+0,size,είναι,banana,food,big,0.86,3,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+1,size,δεν είναι,chair,furniture,small,0.83,4,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+2,age,είναι,carrot,food,rotten,0.0,5,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+3,texture,είναι,cheese,food,hard,0.13,6,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+4,quality,είναι,cheese,food,good,1.0,7,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+5,color,δεν είναι,fan,furniture,purple,0.1,8,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+6,material,είναι,chair,furniture,metal,0.0,9,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+7,color,δεν είναι,cheese,food,blue,0.12,10,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+8,age,είναι,banana,food,fresh,0.09,11,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+9,age,είναι,cheese,food,old,0.07,12,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+10,size,είναι,cheese,food,short,0.85,13,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+11,quality,δεν είναι,chair,furniture,broken,0.0,14,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+12,color,είναι,fan,furniture,yellow,0.09,15,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+13,size,είναι,desk,furniture,long,0.85,16,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+14,material,δεν είναι,TV,furniture,wooden,0.0,17,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+15,color,είναι,couch,furniture,brown,0.11,18,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+16,color,δεν είναι,tomato,food,green,0.11,19,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+17,age,είναι,cheese,food,new,0.13,20,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+18,texture,είναι,TV,furniture,smooth,0.0,21,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+19,material,δεν είναι,carrot,food,plastic,0.03,22,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+20,shape,δεν είναι,chair,furniture,round,0.03,23,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+21,size,είναι,couch,furniture,tiny,0.88,24,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+22,shape,δεν είναι,cheese,food,square,0.02,25,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+23,color,δεν είναι,carrot,food,red,0.1,26,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+24,texture,είναι,cheese,food,soft,0.11,27,Ελληνικά,2,23,Female,2,"Ήταν ενδιαφέρον, απλά θα προτιμούσα μεγαλύτερη ποικιλία στις ερωτήσεις.",5d0e3b9955790000010eb51c,Chrome,Windows,768,1366,5.380233333333333,31,Yes
+0,size,δεν είναι,TV,furniture,big,1.0,3,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+1,size,είναι,fan,furniture,tiny,1.0,4,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+2,texture,δεν είναι,tomato,food,soft,1.0,5,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+3,shape,δεν είναι,chair,furniture,square,0.0,6,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+4,color,δεν είναι,cheese,food,green,0.0,7,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+5,age,δεν είναι,desk,furniture,old,0.56,8,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+6,quality,είναι,desk,furniture,good,1.0,9,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+7,size,είναι,carrot,food,small,0.06,10,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+8,color,δεν είναι,cheese,food,blue,0.0,11,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+9,color,είναι,couch,furniture,brown,0.0,12,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+10,material,δεν είναι,cheese,food,metal,0.0,13,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+11,material,είναι,tomato,food,wooden,0.0,14,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+12,color,είναι,tomato,food,purple,0.0,15,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+13,age,δεν είναι,TV,furniture,fresh,0.0,16,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+14,texture,είναι,chair,furniture,smooth,0.23,17,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+15,color,είναι,cheese,food,red,0.0,18,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+16,texture,δεν είναι,cheese,food,hard,0.36,19,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+17,age,δεν είναι,fan,furniture,new,0.79,20,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+18,quality,είναι,couch,furniture,broken,0.13,21,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+19,age,δεν είναι,couch,furniture,rotten,0.07,22,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+20,color,είναι,banana,food,yellow,0.0,23,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+21,size,είναι,apple,food,short,0.0,24,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+22,material,δεν είναι,chair,furniture,plastic,0.05,25,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+23,shape,είναι,fan,furniture,round,0.13,26,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+24,size,είναι,chair,furniture,long,0.0,27,Ελληνικα,1,27,Female,2,Δεν μου φανηκε χρησιμο για να βγαλει καποιος σημαντικα συμπερασμαρα,5dee37b1c771004cb19287b8,Chrome,Windows,768,1366,4.030433333333334,32,Yes
+0,size,είναι,couch,furniture,long,0.22,3,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+1,quality,δεν είναι,fan,furniture,good,0.8,4,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+2,size,δεν είναι,tomato,food,small,0.06,5,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+3,shape,είναι,cheese,food,square,0.04,6,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+4,color,δεν είναι,fan,furniture,red,0.03,7,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+5,material,είναι,couch,furniture,wooden,0.81,8,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+6,color,είναι,apple,food,purple,0.01,9,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+7,shape,δεν είναι,TV,furniture,round,0.08,10,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+8,color,είναι,carrot,food,yellow,0.4,11,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+9,size,δεν είναι,apple,food,big,0.76,12,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+10,texture,δεν είναι,couch,furniture,soft,0.9,13,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+11,color,είναι,fan,furniture,brown,0.19,14,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+12,size,δεν είναι,apple,food,short,0.27,15,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+13,color,είναι,fan,furniture,blue,0.13,16,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+14,quality,δεν είναι,banana,food,broken,0.95,17,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+15,texture,δεν είναι,carrot,food,hard,0.79,18,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+16,age,δεν είναι,carrot,food,rotten,0.82,19,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+17,size,είναι,chair,furniture,tiny,0.57,20,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+18,material,δεν είναι,chair,furniture,plastic,0.21,21,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+19,age,δεν είναι,cheese,food,old,0.65,22,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+20,material,δεν είναι,banana,food,metal,0.09,23,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+21,age,δεν είναι,chair,furniture,fresh,0.42,24,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+22,age,δεν είναι,apple,food,new,0.8,25,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+23,texture,δεν είναι,banana,food,smooth,0.73,26,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+24,color,είναι,couch,furniture,green,0.18,27,,2,31,Male,0,,5c19476c5a4fdb00014a2948,Chrome,Linux,699,393,4.681883333333333,33,Yes
+0,texture,δεν είναι,fan,furniture,hard,0.02,3,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+1,age,είναι,carrot,food,old,0.41,4,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+2,color,είναι,carrot,food,blue,0.06,5,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+3,quality,είναι,carrot,food,broken,0.47,6,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+4,color,είναι,carrot,food,brown,0.2,7,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+5,material,δεν είναι,desk,furniture,plastic,0.1,8,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+6,material,είναι,fan,furniture,wooden,0.09,9,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+7,color,είναι,apple,food,red,0.1,10,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+8,size,είναι,TV,furniture,tiny,0.08,11,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+9,size,δεν είναι,carrot,food,long,0.55,12,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+10,size,είναι,fan,furniture,small,0.48,13,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+11,size,είναι,fan,furniture,short,0.43,14,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+12,material,δεν είναι,cheese,food,metal,0.15,15,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+13,texture,δεν είναι,tomato,food,smooth,0.04,16,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+14,age,είναι,chair,furniture,new,0.95,17,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+15,color,δεν είναι,apple,food,yellow,0.88,18,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+16,texture,δεν είναι,apple,food,soft,0.09,19,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+17,quality,δεν είναι,couch,furniture,good,0.89,20,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+18,shape,είναι,tomato,food,square,0.07,21,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+19,age,είναι,fan,furniture,rotten,0.08,22,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+20,shape,είναι,carrot,food,round,0.05,23,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+21,size,είναι,TV,furniture,big,0.5,24,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+22,color,δεν είναι,tomato,food,purple,0.03,25,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+23,age,δεν είναι,fan,furniture,fresh,0.0,26,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+24,color,είναι,cheese,food,green,0.05,27,Ελληνικα,1,25,Male,2,,5d16079838325b001892e6f0,Chrome,Linux,720,360,5.46365,34,Yes
+0,size,δεν είναι,chair,furniture,small,0.0,3,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+1,texture,δεν είναι,fan,furniture,smooth,0.0,4,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+2,age,δεν είναι,TV,furniture,rotten,0.0,5,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+3,age,δεν είναι,TV,furniture,old,0.0,6,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+4,quality,δεν είναι,banana,food,broken,1.0,7,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+5,size,δεν είναι,tomato,food,long,1.0,8,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+6,texture,δεν είναι,TV,furniture,soft,0.0,9,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+7,shape,δεν είναι,cheese,food,square,1.0,10,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+8,shape,είναι,desk,furniture,round,1.0,11,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+9,color,είναι,carrot,food,brown,1.0,12,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+10,material,είναι,couch,furniture,wooden,0.0,13,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+11,size,είναι,TV,furniture,short,0.0,14,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+12,color,δεν είναι,fan,furniture,yellow,1.0,15,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+13,age,είναι,cheese,food,new,1.0,16,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+14,color,είναι,apple,food,red,1.0,17,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+15,color,δεν είναι,couch,furniture,purple,1.0,18,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+16,color,δεν είναι,tomato,food,green,1.0,19,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+17,size,δεν είναι,desk,furniture,tiny,1.0,20,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+18,age,δεν είναι,couch,furniture,fresh,0.0,21,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+19,color,δεν είναι,couch,furniture,blue,1.0,22,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+20,size,δεν είναι,apple,food,big,1.0,23,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+21,texture,είναι,carrot,food,hard,1.0,24,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+22,material,είναι,apple,food,metal,0.0,25,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+23,quality,δεν είναι,chair,furniture,good,1.0,26,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+24,material,είναι,couch,furniture,plastic,0.0,27,,1,23,Male,2,,5dd954f1e08a368cd335e1af,Chrome,Windows,768,1366,7.553133333333333,35,Yes
+0,size,δεν είναι,banana,food,short,0.87,3,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+1,shape,είναι,banana,food,round,0.0,4,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+2,size,δεν είναι,chair,furniture,small,1.0,5,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+3,material,δεν είναι,apple,food,wooden,0.0,6,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+4,material,δεν είναι,carrot,food,plastic,0.0,7,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+5,quality,δεν είναι,fan,furniture,broken,0.0,8,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+6,shape,δεν είναι,chair,furniture,square,0.0,9,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+7,size,είναι,cheese,food,tiny,0.0,10,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+8,color,είναι,couch,furniture,green,0.0,11,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+9,texture,είναι,fan,furniture,hard,0.0,12,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+10,color,δεν είναι,apple,food,purple,0.0,13,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+11,size,είναι,tomato,food,long,0.49,14,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+12,texture,είναι,banana,food,soft,0.5,15,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+13,age,δεν είναι,TV,furniture,new,0.0,16,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+14,age,είναι,tomato,food,fresh,0.0,17,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+15,color,είναι,chair,furniture,yellow,0.29,18,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+16,age,είναι,tomato,food,old,0.2,19,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+17,size,είναι,TV,furniture,big,0.83,20,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+18,quality,είναι,desk,furniture,good,0.81,21,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+19,material,δεν είναι,fan,furniture,metal,0.04,22,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+20,color,δεν είναι,apple,food,red,0.28,23,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+21,color,δεν είναι,apple,food,blue,0.23,24,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+22,age,είναι,desk,furniture,rotten,0.04,25,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+23,texture,δεν είναι,chair,furniture,smooth,0.0,26,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+24,color,είναι,chair,furniture,brown,0.41,27,Ελληνικά,2,22,Female,0,Θα μπορούσε να έχει περισσότερα και πιο περίπλοκα παραδείγματα αλλά κατά τα άλλα ήταν ευνόητο! ,5dbee571caae8839a859c3ed,Chrome,Windows,864,1536,7.526816666666667,36,Yes
+0,texture,είναι,banana,food,hard,0.15,3,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+1,texture,είναι,tomato,food,soft,0.67,4,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+2,color,είναι,couch,furniture,brown,0.18,5,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+3,size,είναι,fan,furniture,tiny,0.0,6,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+4,color,δεν είναι,tomato,food,yellow,0.0,7,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+5,color,δεν είναι,banana,food,blue,0.0,8,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+6,age,είναι,chair,furniture,new,0.72,9,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+7,shape,δεν είναι,banana,food,square,0.0,10,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+8,size,είναι,cheese,food,short,0.52,11,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+9,size,είναι,banana,food,big,1.0,12,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+10,texture,είναι,banana,food,smooth,0.63,13,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+11,shape,δεν είναι,carrot,food,round,0.0,14,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+12,age,είναι,tomato,food,fresh,0.77,15,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+13,color,είναι,chair,furniture,green,0.76,16,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+14,material,είναι,tomato,food,metal,0.0,17,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+15,age,είναι,apple,food,old,0.33,18,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+16,size,δεν είναι,TV,furniture,long,0.2,19,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+17,color,είναι,banana,food,purple,0.0,20,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+18,quality,είναι,desk,furniture,broken,0.0,21,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+19,age,είναι,chair,furniture,rotten,0.0,22,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+20,quality,είναι,desk,furniture,good,1.0,23,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+21,material,είναι,apple,food,plastic,0.0,24,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+22,material,είναι,TV,furniture,wooden,0.0,25,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+23,size,είναι,couch,furniture,small,1.0,26,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+24,color,είναι,apple,food,red,0.8,27,Ελληνικά,1,43,Male,3,"Οι ερωτήσεις αφήνουν πολλά περιθώρια παρερμηνείας. Αν και στις απαντήσεις υπήρχε slider για να βαθμολογηθεί ""πόσο σωστή"" θεωρούμε την πρόταση είναι πολύ δύσκολο να ποσοτικοποιηθεί αυτό καθώς μπαίνουν παράμετροι όπως η προσωπική αντίληψη του καθενός, αλλά και το πώς παράγοντες όπως η αχρωματοψία ή οποιοδήποτε πρόβλημα αφής/όρασης μπορούν να επηρρεάσουν το αποτέλεσμα. Με άλλα λόγια, όλα σχεδόν τα ζεύγη προτάσεων μπορούν υπό συγκεκριμένες συνθήκες να θεωρηθούν σωστά σε κάποιο βαθμό.",595a692b62431800019d63bf,Firefox,Windows,1440,2560,10.316816666666666,37,Yes
+0,quality,δεν είναι,couch,furniture,broken,0.68,3,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+1,shape,είναι,banana,food,square,0.03,4,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+2,texture,δεν είναι,banana,food,hard,1.0,5,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+3,size,είναι,banana,food,long,1.0,6,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+4,age,είναι,couch,furniture,fresh,0.85,7,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+5,age,είναι,desk,furniture,new,0.36,8,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+6,color,είναι,desk,furniture,green,0.49,9,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+7,color,δεν είναι,fan,furniture,brown,0.52,10,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+8,color,δεν είναι,apple,food,blue,0.53,11,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+9,size,δεν είναι,tomato,food,short,0.29,12,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+10,size,δεν είναι,desk,furniture,big,0.78,13,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+11,size,είναι,carrot,food,small,0.86,14,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+12,material,δεν είναι,desk,furniture,metal,0.03,15,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+13,shape,δεν είναι,cheese,food,round,0.03,16,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+14,size,είναι,fan,furniture,tiny,0.15,17,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+15,age,είναι,couch,furniture,rotten,0.64,18,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+16,material,δεν είναι,fan,furniture,plastic,0.03,19,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+17,texture,δεν είναι,banana,food,smooth,0.24,20,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+18,color,δεν είναι,apple,food,red,0.5,21,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+19,material,δεν είναι,couch,furniture,wooden,0.15,22,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+20,color,δεν είναι,tomato,food,yellow,0.48,23,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+21,texture,είναι,tomato,food,soft,0.91,24,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+22,color,είναι,desk,furniture,purple,0.54,25,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+23,quality,δεν είναι,fan,furniture,good,0.82,26,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+24,age,δεν είναι,apple,food,old,0.24,27,Ελληνικα,2,30,Male,3,"Καλό το πείραμα, απλά να πω ότι για τα χρώματα απάντησα έτσι διότι μπορεί να ειχαν αχρωματοψία. ",5c6eddd631a6c600011029ba,Chrome,Windows,864,1536,4.595683333333334,38,Yes
+0,material,δεν είναι,cheese,food,metal,0.2,3,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+1,age,είναι,tomato,food,rotten,0.19,4,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+2,age,είναι,tomato,food,fresh,0.83,5,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+3,color,είναι,chair,furniture,brown,0.76,6,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+4,age,είναι,desk,furniture,new,0.65,7,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+5,color,δεν είναι,tomato,food,purple,0.08,8,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+6,age,δεν είναι,banana,food,old,0.11,9,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+7,color,δεν είναι,TV,furniture,green,0.07,10,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+8,size,είναι,carrot,food,short,0.63,11,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+9,color,είναι,TV,furniture,yellow,0.1,12,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+10,size,δεν είναι,couch,furniture,small,0.62,13,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+11,texture,δεν είναι,couch,furniture,smooth,0.28,14,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+12,material,δεν είναι,banana,food,wooden,0.08,15,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+13,color,δεν είναι,couch,furniture,red,0.27,16,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+14,material,δεν είναι,tomato,food,plastic,0.01,17,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+15,size,είναι,chair,furniture,tiny,0.2,18,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+16,size,είναι,cheese,food,big,0.64,19,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+17,color,είναι,tomato,food,blue,0.11,20,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+18,size,είναι,TV,furniture,long,0.81,21,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+19,shape,είναι,chair,furniture,square,0.1,22,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+20,quality,δεν είναι,fan,furniture,broken,0.01,23,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+21,shape,δεν είναι,apple,food,round,0.06,24,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+22,quality,δεν είναι,fan,furniture,good,0.89,25,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+23,texture,είναι,desk,furniture,soft,0.57,26,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+24,texture,είναι,TV,furniture,hard,0.67,27,Ελληνικά ,1,18,Female,0,Πολλοί χαρακτηρισμοί ήταν σχετικοί και αμφιλεγόμενοι,5c7f07e773dbca0001165401,Chrome,Linux,846,412,17.492316666666667,39,Yes
+0,age,είναι,tomato,food,old,0.0,3,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+1,size,είναι,cheese,food,tiny,0.12,4,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+2,size,δεν είναι,tomato,food,long,0.74,5,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+3,color,είναι,apple,food,blue,0.0,6,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+4,color,δεν είναι,tomato,food,yellow,0.87,7,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+5,shape,δεν είναι,banana,food,round,0.04,8,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+6,shape,είναι,couch,furniture,square,0.75,9,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+7,material,είναι,chair,furniture,plastic,0.07,10,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+8,color,δεν είναι,tomato,food,green,0.67,11,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+9,texture,δεν είναι,fan,furniture,smooth,0.72,12,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+10,color,δεν είναι,fan,furniture,brown,0.56,13,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+11,size,είναι,apple,food,short,0.57,14,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+12,material,είναι,banana,food,wooden,0.14,15,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+13,color,δεν είναι,desk,furniture,red,0.65,16,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+14,texture,είναι,chair,furniture,hard,1.0,17,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+15,color,δεν είναι,fan,furniture,purple,0.27,18,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+16,size,είναι,cheese,food,small,0.39,19,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+17,quality,είναι,TV,furniture,broken,0.61,20,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+18,age,είναι,couch,furniture,new,0.08,21,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+19,texture,είναι,apple,food,soft,0.69,22,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+20,size,δεν είναι,desk,furniture,big,0.41,23,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+21,age,δεν είναι,carrot,food,fresh,0.74,24,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+22,material,δεν είναι,TV,furniture,metal,0.13,25,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+23,quality,δεν είναι,couch,furniture,good,0.93,26,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
+24,age,δεν είναι,chair,furniture,rotten,0.2,27,Ελληνικά,1,30,Female,1,"Ενδιαφέρον,κάποιες απο τις προτάσεις θα μπορούσαν να είναι πιο αληθοφανείς!",5bc70d15069008000139f1c0,Firefox,Windows,1080,1920,16.363316666666666,40,Yes
