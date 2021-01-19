@@ -14,6 +14,7 @@ d = d[d$language!="",]
 unique(d$language)
 
 length(unique(d$participant_id)) # n=35
+#write.csv(d,"greek-faultless.csv")
 
 aggregate(response~class,data=d,mean)
 d_agr = aggregate(response~predicate,FUN=mean,data=d)
